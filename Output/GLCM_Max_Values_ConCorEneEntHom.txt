@@ -1,0 +1,5 @@
+contrast 	154557028.0
+correlation 	9526299927.84
+energy 	621.594723272
+entropy 	-855192.499379
+homogeneity 	22465.0252097
